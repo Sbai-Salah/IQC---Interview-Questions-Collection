@@ -1,7 +1,11 @@
 # IQC---Interview-Questions-Collection
 📈📊 This repo is subject to periodic updates to reflect insights gathered from ongoing reviews of past technical interviews.
 
-
+```
+It's worth noting that interview questions are gradually transitioning from French to English with each passing year.
+Therefore, it's essential to anticipate and prepare for this linguistic shift.
+Being proficient in both languages will be crucial for navigating the evolving landscape of technical interviews effectively.
+```
 | Section                                              | Link                                           |
 |------------------------------------------------------|------------------------------------------------|
 | IMPORTANT INTRODUCTION ⚠️                           | [IMPORTANT INTRODUCTION ⚠️](#important-introduction-%EF%B8%8F--choose-your-job) |
