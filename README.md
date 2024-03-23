@@ -4,12 +4,14 @@
 
 | Section                                              | Link                                           |
 |------------------------------------------------------|------------------------------------------------|
-| IMPORTANT INTRODUCTION ⚠️                           | [#IMPORTANT INTRODUCTION ⚠️](#important-introduction-%EF%B8%8F--choose-your-job) |
-| Using This Repository 🛠️                          | [#Using This Repository 🛠️](#using-this-repository-%EF%B8%8F) |
-| Software Engineer Interview Preparation             | [#Software Engineer Interview Preparation](#software-engineer-interview-preparation) |
-| A/ Data Structure Categories                         | [#A/ Data Structure Categories](#a-data-structure-categories) |
-| B/ Specific Questions Cagtegories                    | [#B/ Specific Questions Cagtegories](#b-specific-questions-cagtegories) |
-| Algorithmic Arsenal🧱 : Essential Problem Categories | [#Algorithmic Arsenal🧱 : Essential Problem Categories](#algorithmic-arsenal--essential-problem-categories) |
+| IMPORTANT INTRODUCTION ⚠️                           | [IMPORTANT INTRODUCTION ⚠️](#important-introduction-%EF%B8%8F--choose-your-job) |
+| Using This Repository 🛠️                          | [Using This Repository 🛠️](#using-this-repository-%EF%B8%8F) |
+| Software Engineer Interview Preparation             | [Software Engineer Interview Preparation](#software-engineer-interview-preparation) |
+| A/ Data Structure Categories                         | [A/ Data Structure Categories](#a-data-structure-cagtegories) |
+| B/ Specific Questions Cagtegories                    | [B/ Specific Questions Cagtegories](#b-specific-questions-cagtegories) |
+| Algorithmic Arsenal🧱 : Essential Problem Categories | [Algorithmic Arsenal🧱 : Essential Problem Categories](#algorithmic-arsenal--essential-problem-categories) |
+| Additional Resources 📂 | [Additional Resources 📂](#additional-resources-) |
+
 
 ---
 
