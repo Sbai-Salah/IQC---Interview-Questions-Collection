@@ -1,4 +1,6 @@
 # IQC---Interview-Questions-Collection
+< star⭐ this repo/>
+
 📈📊 This repo is subject to periodic updates to reflect insights gathered from ongoing reviews of past technical interviews.
 
 ```
@@ -237,7 +239,7 @@ Once your PR is approved, it will be merged into the main branch of the reposito
 
 ---
 
-< star⭐ this repo/>
+
 
 
 
