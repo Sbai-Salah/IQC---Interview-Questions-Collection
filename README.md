@@ -174,9 +174,6 @@ more content will be added later ...
 ```
 
 ---
-Certainly! Here's a guide on how to contribute to your repository:
-
----
 
 # Contributing Guidelines 🤝
 
