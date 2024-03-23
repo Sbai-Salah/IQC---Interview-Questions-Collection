@@ -47,7 +47,7 @@ If you have an upcoming interview, especially an online technical test with a sp
 
 2. **Practice Problem Categories**: Focus on the problem categories listed for the company. Refer to the "Algorithmic Arsenal🧱" section for the most commonly asked questions in each category.
 
-3. **Explore Additional Resources**: If the company you're preparing for isn't listed, explore the provided drive folder for supplementary materials.
+3. **Explore Additional Resources**: If the company you're preparing for isn't listed, explore the provided drive folder [Google Drive Folder](#additional-resources-) for supplementary materials.
 
 4. **Seek Assistance**: If you're unable to find resources for your target company or have any questions, feel free to contact me directly. I'm here to assist you with your preparation journey. 😄
 ( contact info in my github profile )
@@ -155,7 +155,11 @@ Engaging in coding problems through platforms such as HackerRank and LeetCode fo
 |                         | Number of Islands                               |
 
 
+# Additional Resources 📂
 
+> Last update : Added E-challenge Java 2024
+
+[Google Drive | Interviews](https://drive.google.com/drive/folders/1N9FqThinvAsyHazsoxydih6vwPlWryxp?usp=sharing)
 
 
 
