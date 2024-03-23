@@ -1,4 +1,6 @@
 # IQC---Interview-Questions-Collection
+📈📊 This repo is subject to periodic updates to reflect insights gathered from ongoing reviews of past technical interviews.
+
 
 | Section                                              | Link                                           |
 |------------------------------------------------------|------------------------------------------------|
