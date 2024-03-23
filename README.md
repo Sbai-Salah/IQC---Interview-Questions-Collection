@@ -11,7 +11,7 @@
 | B/ Specific Questions Cagtegories                    | [B/ Specific Questions Cagtegories](#b-specific-questions-cagtegories) |
 | Algorithmic Arsenal🧱 : Essential Problem Categories | [Algorithmic Arsenal🧱 : Essential Problem Categories](#algorithmic-arsenal--essential-problem-categories) |
 | Additional Resources 📂 | [Additional Resources 📂](#additional-resources-) |
-
+|Practice Git By Contributing To This Repo 🤝| [Contributing Guidelines 🤝](#contributing-guidelines-) |
 
 ---
 
@@ -163,9 +163,77 @@ Engaging in coding problems through platforms such as HackerRank and LeetCode fo
 
 [Google Drive | Interviews](https://drive.google.com/drive/folders/1N9FqThinvAsyHazsoxydih6vwPlWryxp?usp=sharing)
 
+```
+more content will be added later ...
+```
 
+---
+Certainly! Here's a guide on how to contribute to your repository:
 
+---
 
+# Contributing Guidelines 🤝
+
+We welcome contributions to enhance the content and functionality of this repository. Whether it's fixing a typo, adding new content, or suggesting improvements, your contributions are valuable. Please follow these guidelines to ensure smooth collaboration:
+
+## 1. Fork the Repository
+
+Click on the "Fork" button at the top right corner of the repository's page to create a copy of the repository in your GitHub account.
+
+## 2. Clone the Repository
+
+Clone the forked repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/your-username/IQC---Interview-Questions-Collection.git
+```
+
+Replace `your-username` with your GitHub username.
+
+## 3. Create a Branch
+
+Create a new branch to work on your changes:
+
+```bash
+git checkout -b feature/your-feature-name
+```
+
+## 4. Make Changes
+
+Make your desired changes to the repository. You can modify existing files, add new content, or fix bugs.
+
+## 5. Commit Changes
+
+Once you've made your changes, commit them to your branch with descriptive commit messages:
+
+```bash
+git add .
+git commit -m "Add your descriptive commit message here"
+```
+
+## 6. Push Changes
+
+Push your changes to your forked repository:
+
+```bash
+git push origin feature/your-feature-name
+```
+
+## 7. Create Pull Request
+
+Go to your forked repository on GitHub and create a Pull Request (PR) from your branch to the main repository. Provide a clear title and description for your PR, detailing the changes you've made.
+
+## 8. Review Process
+
+Your PR will be reviewed by the repository maintainers ( for instance : Salah Sbai ). Be responsive to any feedback or requests for changes.
+
+## 9. Merge Changes
+
+Once your PR is approved, it will be merged into the main branch of the repository. Congratulations on your contribution 🎉!
+
+---
+
+< star⭐ this repo/>
 
 
 
