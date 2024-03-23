@@ -37,7 +37,7 @@ Here's a breakdown of each phase along with associated job titles, sub-jobs, and
 | 7. Maintenance/Support          | Software Maintenance Engineer, Support Engineer | Bug Fixer, Technical Support Specialist   | CGI, SII, Atos (Morocco), Orange, Airbus (France)                |
 |                                 |                                             | Systems Administrator, Customer Success Manager | Alten, Altran (Morocco), Capgemini, OVHcloud (France)           |
 
-
+[Read More About SDLC](https://datarob.com/sdlc-methodologies/)
 # Using This Repository 🛠️ 
 [Back To Top ⤴️](#iqc---interview-questions-collection)
 
