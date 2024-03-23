@@ -5,6 +5,7 @@
 | Section                                              | Link                                           |
 |------------------------------------------------------|------------------------------------------------|
 | IMPORTANT INTRODUCTION ⚠️                           | [#IMPORTANT INTRODUCTION ⚠️](#important-introduction-%EF%B8%8F--choose-your-job) |
+| Using This Repository 🛠️                          | [#Using This Repository 🛠️](#using-this-repository-%EF%B8%8F) |
 | Software Engineer Interview Preparation             | [#Software Engineer Interview Preparation](#software-engineer-interview-preparation) |
 | A/ Data Structure Categories                         | [#A/ Data Structure Categories](#a-data-structure-categories) |
 | B/ Specific Questions Cagtegories                    | [#B/ Specific Questions Cagtegories](#b-specific-questions-cagtegories) |
@@ -35,6 +36,20 @@ Here's a breakdown of each phase along with associated job titles, sub-jobs, and
 |                                 |                                             | Site Reliability Engineer, Continuous Integration Engineer | Capgemini, CGI (Morocco), Thales, Alten (France)              |
 | 7. Maintenance/Support          | Software Maintenance Engineer, Support Engineer | Bug Fixer, Technical Support Specialist   | CGI, SII, Atos (Morocco), Orange, Airbus (France)                |
 |                                 |                                             | Systems Administrator, Customer Success Manager | Alten, Altran (Morocco), Capgemini, OVHcloud (France)           |
+
+
+# Using This Repository 🛠️
+
+If you have an upcoming interview, especially an online technical test with a specific company, follow these steps to effectively prepare:
+
+1. **Review Technical Question Categories**: Navigate to the "Technical Questions Categories For Some Companies" section. Locate the company you're preparing for in the table. If it's listed, proceed to the next step.
+
+2. **Practice Problem Categories**: Focus on the problem categories listed for the company. Refer to the "Algorithmic Arsenal🧱" section for the most commonly asked questions in each category.
+
+3. **Explore Additional Resources**: If the company you're preparing for isn't listed, explore the provided drive folder for supplementary materials.
+
+4. **Seek Assistance**: If you're unable to find resources for your target company or have any questions, feel free to contact me directly. I'm here to assist you with your preparation journey. 😄
+( contact info in my github profile )
 
 
 # Software Engineer Interview Preparation
