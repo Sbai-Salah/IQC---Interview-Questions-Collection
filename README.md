@@ -38,7 +38,8 @@ Here's a breakdown of each phase along with associated job titles, sub-jobs, and
 |                                 |                                             | Systems Administrator, Customer Success Manager | Alten, Altran (Morocco), Capgemini, OVHcloud (France)           |
 
 
-# Using This Repository 🛠️
+# Using This Repository 🛠️ 
+[Back To Top ⤴️](#iqc---interview-questions-collection)
 
 If you have an upcoming interview, especially an online technical test with a specific company, follow these steps to effectively prepare:
 
@@ -55,6 +56,7 @@ If you have an upcoming interview, especially an online technical test with a sp
 # Software Engineer Interview Preparation
 
 ## Technical Questions Categories For Some Companies 📑
+[Back To Top ⤴️](#iqc---interview-questions-collection)
 
 📈📊 This table is subject to periodic updates to reflect insights gathered from ongoing reviews of past technical interviews.
 
@@ -75,6 +77,8 @@ Engaging in coding problems through platforms such as HackerRank and LeetCode fo
 
 
 ## A/ Data Structure Cagtegories
+[Back To Top ⤴️](#iqc---interview-questions-collection)
+
 1. **Array Manipulation**:
     - Practice problems related to array manipulation, such as Kadane's Algorithm, rotating arrays, and finding duplicates.
 2. **String Manipulation**:
@@ -93,6 +97,8 @@ Engaging in coding problems through platforms such as HackerRank and LeetCode fo
     - Explore graph-related problems, such as course scheduling, word ladders, and counting islands.
 
 ## B/ Specific Questions Cagtegories:
+[Back To Top ⤴️](#iqc---interview-questions-collection)
+
 1. **Programming Languages Specific Questions** :
     - Java/C#/PHP Basics questions, OOP questions.
     - Javascript questions.
@@ -106,6 +112,7 @@ Engaging in coding problems through platforms such as HackerRank and LeetCode fo
    - Docker
 
 # Algorithmic Arsenal🧱 : Essential Problem Categories
+[Back To Top ⤴️](#iqc---interview-questions-collection)
 
 📈📊 This table is subject to periodic updates to reflect insights gathered from ongoing reviews of past technical interviews.
 
